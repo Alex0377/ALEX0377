@@ -167,8 +167,5 @@ bs.addinfoCostomer(card);
 
 	public static void main(String[] args) {
 		launch(args);
-//ClientThread potok=new ClientThread("1");
-//potok.start();
-
 	}
 }

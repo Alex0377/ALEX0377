@@ -1,9 +1,6 @@
 package com.rmi;
-
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-
 public class EmailValidator {
     // Email Regex java
     private static final String EMAIL_REGEX = "^[\\w-\\+]+(\\.[\\w]+)*@[\\w-]+(\\.[\\w]+)*(\\.[a-z]{2,})$";
